@@ -1,0 +1,5 @@
+COMPANIES_API=cccd18d18493496c98682612220603
+BASE_HOST=api.weatherapi.com
+API_VERSION=v1
+CURRENT_TYPE=current.json
+FORECAST_TYPE = forecast.json
